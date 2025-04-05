@@ -10,4 +10,5 @@ The project is mainly developed using **TypeScript**, with some supporting **HTM
 
 © 2025 Project Weather App. All Rights Reserved.  
 **Developed & created by Casandra, Linda, Caspian & Cathrine**
+
 **Re-factored and updated by Linda**
